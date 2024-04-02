@@ -1,0 +1,16 @@
+#timer-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+#time-frame {
+    padding: 5px;
+}
+
+#start-timer {
+    padding: 5px 10px;
+    cursor: pointer;
+}
